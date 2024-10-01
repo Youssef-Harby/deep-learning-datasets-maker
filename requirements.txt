@@ -1,4 +1,3 @@
-Cython
-scikit-image
+ogr
 pycocotools
-Pillow
+skimage
